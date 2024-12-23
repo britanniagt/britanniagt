@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Britannia</h1>
 <h3 align="center">I am just a chill guy.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=britanniagt&label=Profile%600views&color=0e75b6&style=flat" alt="britanniagt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=britanniagt&label=Profile%80views&color=0e75b6&style=flat" alt="britanniagt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=britanniagt" alt="britanniagt" /></a> </p>
 
-- 🌱 I’m currently learning **html**
+- 🌱 I’m currently learning **html and creating codes**
 
 - 💬 Ask me about **Anything you want!**
 
 - 📫 How to reach me **you can read my bio!**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I love getting enjoyed more than money.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
