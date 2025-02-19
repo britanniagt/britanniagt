@@ -1,4 +1,4 @@
-<h1 align="center">👉 Welcome, My name is Britannia :) 👈</h1>
+<h1 align="center">👉 Scroll down 2 see more 👈</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=britanniagt&label=Profile%20views&color=0e75b6&style=flat" alt="britanniagt" /> </p>
